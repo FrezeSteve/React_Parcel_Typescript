@@ -1,5 +1,6 @@
-import { Component } from 'react';
-export class App extends Component {
+const React = window.React;
+
+export class App extends React.Component {
     public render() {
         return (
             <h1>Hello World</h1>

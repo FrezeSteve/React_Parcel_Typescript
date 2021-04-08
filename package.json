@@ -18,9 +18,9 @@
     "babel-cli": "^6.26.0",
     "babel-preset-react-app": "^3.1.2",
     "parcel-bundler": "^1.12.5",
-    "typescript": "^4.2.4",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "typescript": "^4.2.4"
   },
   "babel": {
     "presets": [
@@ -32,4 +32,3 @@
     ]
   }
 }
-
